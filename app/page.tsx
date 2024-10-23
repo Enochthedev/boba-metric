@@ -1,5 +1,5 @@
-import { BobaMetricLandingPage } from "@/components/boba-metric-landing-page"
+import { LandingPageComponent } from "@/components/landing-page"
 
 export default function Page() {
-  return <BobaMetricLandingPage />
+  return <LandingPageComponent />
 }
